@@ -523,6 +523,8 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Polkadot Blockchain Academy Courses](https://polkadot-blockchain-academy.github.io/pba-book/) - This book is the home of the majority of materials used within the Polkadot
   Blockchain Academy.
 - [Introduction to Rust](https://github.com/CrackTheCode016/intro-to-rust-workshop) - A beginner friendly course for Rust beginners.
+-  [ink! technical content for developers]( https://github.com/polblancoo/Curso-Ink ) -Examples of how to use ink! Rust in smart contract. The work has already 
+    been done for a while, and released to the community.
 
 ### Videos
 
